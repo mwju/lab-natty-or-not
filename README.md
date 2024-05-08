@@ -1,14 +1,12 @@
-
-```markdown
 # Avançando Rumo ao Futuro: O Projeto Piloto de Utilização de IA
 
 ## 📒 Descrição
 O projeto que busca explorar as capacidades da inteligência artificial em utilizações do mundo real
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT e Veed.io
-https://chatgpt.com
-https://veed.io
+[ChatGPT](https://chatgpt.com)
+
+[Veed](https://veed.io)
 
 ## 🧐 Processo de Criação
 Pedi para o chatGPT criar um texto com o tema projeto piloto de utilização de IA:
