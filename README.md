@@ -34,4 +34,4 @@ No projeto piloto de teste de utilização de IA, estamos testemunhando a fronte
 Depois escolhi um personagem no Veed.io e utilizei o texto resumido para gerar o video
 
 ## 🚀 Resultados
-Vide arquivo MP4
+[Vide arquivo MP4](https://github.com/mwju/lab-natty-or-not/blob/main/lab-natty-or-not.mp4)
